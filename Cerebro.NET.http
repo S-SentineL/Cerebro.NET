@@ -1,0 +1,6 @@
+@Cerebro.NET_HostAddress = http://localhost:5167
+
+GET {{Cerebro.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
